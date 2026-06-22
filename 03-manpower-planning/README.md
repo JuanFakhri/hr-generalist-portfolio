@@ -1,84 +1,67 @@
 # 03 — Strategic Manpower Planning
+### Lemonsqueeze (Digital Agency) · HR Bootcamp Intermediate Mission
 
-**Case Study:** PT Lemonsqueeze (Digital Marketing Agency)  
-**Program:** HR Bootcamp Intermediate — Talent Acquisition  
-**Skor:** 75 / 100
-
----
-
-## 📋 Problem Statement
-
-PT Lemonsqueeze adalah digital marketing agency yang sedang dalam fase pertumbuhan. Perusahaan perlu menambah sejumlah posisi strategis untuk mengejar target revenue baru, namun belum memiliki perencanaan SDM yang terstruktur dengan proyeksi biaya yang terukur.
+[![Project](https://img.shields.io/badge/Project-Intermediate_Mission-2D9CDB?style=flat-square)]()
+[![Growth](https://img.shields.io/badge/HC_Growth-7_→_15_(114%%)-27AE60?style=flat-square)]()
+[![LaborCost](https://img.shields.io/badge/Labor_Cost-<_30%%_Revenue-E74C3C?style=flat-square)]()
 
 ---
 
-## 🎯 Tujuan
+## 📌 Problem Statement
 
-- Menyusun **Manpower Planning** komprehensif untuk 15 posisi target
-- Merancang **job description & job requirement** per posisi yang jelas
-- Memproyeksikan **labor cost per kuartal** agar tetap di bawah batas 30% dari revenue
-- Mempresentasikan rencana dalam format **deck laporan profesional**
+**Lemonsqueeze**, agensi digital dengan **7 karyawan**, menargetkan pertumbuhan signifikan di 2026 namun belum memiliki perencanaan tenaga kerja tahunan yang selaras dengan target revenue — tidak ada roadmap rekrutmen, tidak ada proyeksi labor cost per kuartal.
 
 ---
 
-## 🔧 Proses Pengerjaan
+## 🎯 Tujuan & Output
 
-1. Analisis struktur organisasi existing dan gap SDM
-2. Identifikasi posisi prioritas (High/Medium/Low) berdasarkan kebutuhan bisnis
-3. Pemetaan metode perhitungan MPP: **Metode Rasio** & **Metode Studi Kerja**
-4. Proyeksi labor cost per kuartal dengan mempertimbangkan kenaikan gaji inflasi 3-6%/tahun
-5. Penyusunan deck presentasi MPP untuk manajemen
-
----
-
-## 📊 Hasil
-
-| Metrik | Detail |
-|--------|--------|
-| Total Posisi Dipetakan | 15 Posisi |
-| Posisi Baru (New Hire) | 4 Posisi |
-| Posisi Existing | 11 Posisi |
-| Labor Cost Target | < 30% dari Revenue |
-| Total Budget/Bulan | Rp 115.000.000 |
+| Tujuan | Output yang Dihasilkan |
+|--------|----------------------|
+| Susun annual workforce strategy | Roadmap rekrutmen Q1–Q4 2026 |
+| Peta 15 posisi target | Prioritas & timeline per posisi |
+| Proyeksi labor cost | Budget SDM terkendali < 30% revenue |
 
 ---
 
-## 👥 Posisi yang Dipetakan
+## 📊 Ringkasan Hasil Strategis
 
-| Prioritas | Posisi | Status |
-|-----------|--------|--------|
-| High | CEO | Existing |
-| High | Sales Representative (2 orang) | New Hire |
-| High | Marketplace Specialist (2 orang) | New Hire |
-| Medium | Social Media Specialist (2 orang) | Existing + New Hire |
-| Medium | Head of Marketing | Existing |
-| Low | Graphic Designer (2 orang) | Existing |
-| Low | Finance | Existing |
-| Low | HR Manager | Existing |
+```
+Kondisi Awal   : 7 karyawan existing
+Target Akhir   : 15 posisi (8 new hire)
+Growth HC      : +114%
+Riset Referensi: 21 sumber industri
+Periode        : Q1–Q4 2026
+Labor Cost     : Konsisten < 30% target revenue tiap kuartal
+```
 
 ---
 
-## 🛠️ Tools & Metode
+## 📅 Roadmap Rekrutmen Per Kuartal
 
-- **Google Sheets** — MPP tracking, labor cost projection, budget calculation
-- **Google Slides** — Deck presentasi MPP untuk manajemen
-- **Metode Rasio** — untuk posisi Sales Representative
-- **Metode Studi Kerja** — untuk posisi Marketplace & Social Media Specialist
+| Kuartal | +HC | Posisi Baru | Fokus Strategis |
+|---------|-----|-------------|-----------------|
+| Q1 (Jan–Mar) | +2 | Junior Designer, Social Media Manager | Kapasitas produksi kreatif |
+| Q2 (Apr–Jun) | +3 | Web Developer, SEO Specialist, Client Success Manager | Ekspansi layanan |
+| Q3 (Jul–Sep) | +2 | Video Editor, Business Development | Produksi konten & akuisisi klien |
+| Q4 (Okt–Des) | +1 | HR & People Ops | Infrastruktur people management |
 
 ---
 
-## 📁 File dalam Folder Ini
+## 💰 Proyeksi Labor Cost vs Revenue
 
-| File | Deskripsi |
+| Kuartal | Total HC | Total Gaji/Bulan | % dari Revenue |
+|---------|----------|------------------|----------------|
+| Q1 | 9 | ± Rp 55.500.000 | ~28% ✅ |
+| Q2 | 12 | ± Rp 72.000.000 | ~27% ✅ |
+| Q3 | 14 | ± Rp 81.500.000 | ~26% ✅ |
+| Q4 | 15 | ± Rp 86.500.000 | ~25% ✅ |
+
+---
+
+## 📁 Dokumen dalam Folder Ini
+
+| File | Keterangan |
 |------|-----------|
-| `Data_Manpower_Planning_Lemonsqueeze.xlsx` | Workbook MPP: headcount plan, labor cost, budget |
-| `Presentasi_Manpower_Planning_Lemonsqueeze.pptx` | Deck presentasi MPP untuk manajemen |
-| `Manpower_Planning_Lemonsqueeze.pdf` | Versi PDF laporan MPP |
-
----
-
-## 💡 Key Learning
-
-- Metode perhitungan MPP harus dipilih sesuai karakteristik posisi: **rasio** untuk sales-driven, **studi kerja** untuk operational
-- Labor cost projection wajib memperhitungkan **kenaikan gaji inflasi** agar angka tetap realistis jangka panjang
-- Perbandingan labor cost **sebelum vs sesudah** hiring membuat laporan MPP jauh lebih informatif bagi manajemen
+| `Manpower_Planning_Lemonsqueeze.pdf` | Executive summary & workforce strategy 2026 |
+| `Presentasi_Manpower_Planning_Lemonsqueeze.pptx` | Slide presentasi untuk manajemen |
+| `Data_Manpower_Planning_Lemonsqueeze.xlsx` | Data breakdown posisi, gaji, dan proyeksi per kuartal |

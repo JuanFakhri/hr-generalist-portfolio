@@ -1,77 +1,73 @@
 # 02 — Program Management Trainee & Onboarding
+### PT Mie Pedas Raya · HR Bootcamp Advanced Mission — Training & Development
 
-**Case Study:** PT Mie Pedas Raya  
-**Program:** HR Bootcamp Advanced — Training & Development  
-
----
-
-## 📋 Problem Statement
-
-Ekspansi 2 outlet baru membutuhkan jajaran manajemen lini (Manager & Supervisor Outlet) yang siap pakai, namun perusahaan **belum memiliki program pengembangan talent internal** yang terstruktur.
+[![Project](https://img.shields.io/badge/Project-Advanced_Mission-2D9CDB?style=flat-square)]()
+[![Duration](https://img.shields.io/badge/Durasi_Program-12_Bulan-8E44AD?style=flat-square)]()
+[![Trainee](https://img.shields.io/badge/Peserta-5_Orang-E67E22?style=flat-square)]()
 
 ---
 
-## 🎯 Tujuan
+## 📌 Problem Statement
 
-- Merancang **Program Management Trainee 12 bulan** lengkap dengan kurikulum dan sistem evaluasi
-- Membuat **proses onboarding sistematis** untuk karyawan baru
-- Menyusun **sistem klasifikasi talent (PEPA)** untuk mencetak calon pemimpin outlet
+Ekspansi 2 outlet baru PT Mie Pedas Raya membutuhkan **jajaran manajemen lini** (Manager & Supervisor Outlet) yang siap pakai, namun perusahaan belum memiliki program pengembangan talent internal yang terstruktur — baik dari sisi kurikulum, jadwal, maupun sistem evaluasi.
 
 ---
 
-## 🔧 Proses Pengerjaan
+## 🎯 Tujuan & Output
 
-1. Menyusun **Gantt Chart 12 bulan**: in-class training → OJT Tahap 1 → rotasi outlet → OJT Tahap 2 → ujian akhir
-2. Merancang **kurikulum berbasis kompetensi** per modul pelatihan
-3. Membangun **sistem PEPA** (Performance, Engagement, Potential, Attitude) untuk klasifikasi peserta MT
-4. Menghitung **budget program MT & onboarding** secara komprehensif
-
----
-
-## 📊 Hasil
-
-| Metrik | Detail |
-|--------|--------|
-| Durasi Program MT | 12 Bulan |
-| Jumlah Peserta Trainee | 5 Orang |
-| Tahap OJT | 2 Tahap (Outlet A & Outlet B) |
-| Sistem Evaluasi | PEPA (4 dimensi) |
+| Tujuan | Output yang Dihasilkan |
+|--------|----------------------|
+| Mencetak calon pemimpin outlet dari internal | Program MT 12 bulan dengan Gantt Chart |
+| Menyambut karyawan baru secara terstruktur | Alur Onboarding sistematis (Day 1 → Bulan 3) |
+| Mengukur dan mengklasifikasikan talent | Sistem evaluasi PEPA (4 kuadran talent) |
 
 ---
 
-## 🗓️ Struktur Program MT (12 Bulan)
+## 📅 Gantt Chart Program MT — 12 Bulan
+
+| Fase | Bulan | Kegiatan | Output Terukur |
+|------|-------|----------|----------------|
+| Rekrutmen MT | 1 | Seleksi & orientasi peserta | 5 peserta terpilih |
+| In-Class Training I | 2–3 | Leadership, HR Dasar, F&B Ops, Customer Service | Nilai ujian ≥ 70 |
+| OJT Tahap 1 | 4–5 | Magang observasi di outlet existing | Laporan OJT Tahap 1 |
+| In-Class Training II | 6–7 | Manajemen operasional, P&L dasar, SOP QC | Nilai ujian ≥ 75 |
+| OJT Tahap 2 | 8–10 | Magang aktif dengan tanggung jawab penuh | Laporan + penilaian user |
+| Rotasi Outlet | 11 | Rotasi ke outlet berbeda untuk adaptabilitas | Nilai adaptabilitas |
+| Ujian & Placement | 12 | Ujian akhir + sidang kompetensi | Keputusan placement |
+
+---
+
+## 🏅 Sistem Klasifikasi Talent — PEPA
+
+Peserta MT diklasifikasikan ke dalam **4 kuadran** berdasarkan:
+- **Performance** → capaian aktual (ujian, OJT, laporan)
+- **Potential** → learning agility, attitude, leadership trait
 
 ```
-Bulan 1-3   : In-Class Training (teori operasional, leadership, SOP)
-Bulan 4-6   : OJT Tahap 1 — outlet existing
-Bulan 7     : Evaluasi Mid-Program + Rotasi
-Bulan 8-10  : OJT Tahap 2 — outlet berbeda
-Bulan 11    : Persiapan Ujian Akhir
-Bulan 12    : Ujian Akhir + Penempatan
+HIGH PERFORMANCE
+      │
+   ENIGMA  │  STAR ⭐      ← Fast-track ke Supervisor/Manager
+      │     │
+──────┼─────┼──────
+      │     │
+DEADWOOD│PROBLEM CHILD 👶  ← Intensif coaching & mentoring
+      │     │
+      LOW POTENTIAL ──── HIGH POTENTIAL
 ```
 
 ---
 
-## 🛠️ Tools & Metode
+## 📁 Dokumen dalam Folder Ini
 
-- **Google Slides** — Kurikulum & Gantt Chart visual
-- **Google Sheets** — Jadwal detail, budget, dan penilaian PEPA
-- **Kerangka PEPA** — Klasifikasi talent multi-dimensi
-
----
-
-## 📁 File dalam Folder Ini
-
-| File | Deskripsi |
+| File | Keterangan |
 |------|-----------|
-| `Program_MT_Onboarding_PT_Mie_Pedas_Raya.xlsx` | Workbook lengkap: Gantt Chart, PEPA, Budget |
-| `Presentasi_MT_Onboarding_PT_Mie_Pedas_Raya.pptx` | Deck presentasi program MT & Onboarding |
-| `Data_MT_Onboarding_PT_Mie_Pedas_Raya.xlsx` | Data pendukung & kalkulasi detail |
+| `Presentasi_MT_Onboarding_PT_Mie_Pedas_Raya.pptx` | Slide kurikulum, Gantt chart, dan sistem PEPA |
+| `Program_MT_Onboarding_PT_Mie_Pedas_Raya.xlsx` | Jadwal detail, budget program, dan tracker peserta |
+| `Data_MT_Onboarding_PT_Mie_Pedas_Raya.xlsx` | Data operasional & evaluasi peserta MT |
 
 ---
 
-## 💡 Key Learning
+## 🔗 Keterkaitan Project
 
-- Program MT yang baik tidak hanya soal pelatihan teknis, tapi juga **pengembangan soft skill & leadership**
-- Sistem PEPA membantu HR bersikap **objektif** dalam menilai peserta secara holistik
-- Onboarding yang sistematis berkontribusi langsung pada **employee retention** di bulan-bulan pertama
+- Rekrutmen peserta MT → lihat [`01-sop-recruitment/`](../01-sop-recruitment/)
+- Template evaluasi wawancara → lihat [`templates/`](../templates/)

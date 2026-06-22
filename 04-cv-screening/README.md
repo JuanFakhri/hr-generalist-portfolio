@@ -1,74 +1,63 @@
 # 04 — CV Screening & Talent Analysis
+### Studi Kasus Front-End Developer Hiring · HR Bootcamp Basic Mission · Skor 91
 
-**Case Study:** Hiring Front-End Developer  
-**Program:** HR Bootcamp Basic — Talent Acquisition  
-**Skor:** 91 / 100
-
----
-
-## 📋 Problem Statement
-
-Tim rekrutmen menerima **2 kandidat Front-End Developer** dengan kualifikasi yang terlihat setara di permukaan. Diperlukan evaluasi terstruktur untuk menentukan kandidat mana yang benar-benar selaras dengan kebutuhan posisi sebelum lanjut ke tahap interview.
+[![Project](https://img.shields.io/badge/Project-Basic_Mission-2D9CDB?style=flat-square)]()
+[![Score](https://img.shields.io/badge/Skor-91%2F100-27AE60?style=flat-square)]()
+[![Method](https://img.shields.io/badge/Metode-MoSCoW_Framework-9B59B6?style=flat-square)]()
 
 ---
 
-## 🎯 Tujuan
+## 📌 Problem Statement
 
-- Melakukan **CV screening terstruktur** menggunakan kerangka MoSCoW
-- Membandingkan 2 kandidat secara **objektif** terhadap job requirement & job description
-- Menyusun **rekomendasi lanjut/tidak lanjut** beserta alasan yang jelas
+Tim rekrutmen menerima **2 kandidat Front-End Developer** dengan kualifikasi yang terlihat setara di permukaan. Diperlukan metode evaluasi **terstruktur dan objektif** untuk menentukan kandidat mana yang benar-benar selaras dengan job requirement — bukan hanya kesan subjektif pewawancara.
 
 ---
 
-## 🔧 Proses Pengerjaan
+## 🎯 Tujuan & Output
 
-1. Breakdown job requirement & job description ke dalam 4 kategori MoSCoW
-2. Mapping pengalaman tiap kandidat ke masing-masing aspek penilaian
-3. Analisis komparatif: kekuatan dan gap tiap kandidat
-4. Penyusunan kesimpulan dan rekomendasi berbasis data
-
----
-
-## 📐 Kerangka MoSCoW
-
-| Kategori | Definisi | Bobot |
-|----------|----------|-------|
-| **Must Have** | Kualifikasi wajib — tanpa ini kandidat langsung gugur | Tertinggi |
-| **Should Have** | Sangat diharapkan ada, tapi masih bisa dikompensasi | Tinggi |
-| **Could Have** | Nilai tambah — bagus jika ada | Sedang |
-| **Won't Have** | Tidak relevan untuk posisi ini saat ini | Rendah |
+| Tujuan | Output yang Dihasilkan |
+|--------|----------------------|
+| Evaluasi CV secara objektif | Analisis MoSCoW per kandidat |
+| Bandingkan 2 kandidat secara terstruktur | Tabel komparatif 4 kategori MoSCoW |
+| Hasilkan rekomendasi berbasis data | Keputusan lanjut/tidak lanjut + alasan |
 
 ---
 
-## 📊 Hasil
+## 🗂️ Kerangka MoSCoW
 
-| Metrik | Detail |
-|--------|--------|
-| Jumlah Kandidat Dievaluasi | 2 Kandidat |
-| Kerangka Analisis | MoSCoW Method |
-| Aspek yang Dinilai | 4 Kategori (Must/Should/Could/Won't) |
-| Hasil Akhir | 1 Kandidat Direkomendasikan Lanjut |
-
----
-
-## 🛠️ Tools & Metode
-
-- **MoSCoW Method** — kerangka prioritisasi kualifikasi kandidat
-- **Google Docs** — format tabel penilaian terstruktur
-- **Analisis Komparatif** — berbasis job requirement & job description
+| Kategori | Definisi | Dampak jika Tidak Ada |
+|----------|----------|-----------------------|
+| **Must Have** | Syarat mutlak — tanpa ini kandidat gugur | ❌ Eliminasi langsung |
+| **Should Have** | Sangat diinginkan, dampak besar pada performa | ⚠️ Nilai dikurangi signifikan |
+| **Could Have** | Nilai tambah, bukan penentu | ℹ️ Bonus poin |
+| **Won't Have** | Tidak relevan saat ini | — Tidak dinilai |
 
 ---
 
-## 📁 File dalam Folder Ini
+## 🏆 Hasil Analisis & Rekomendasi
 
-| File | Deskripsi |
+```
+✅ Kedua kandidat lolos seluruh aspek MUST HAVE
+
+Kandidat A (Rizky Pratama)   →  Unggul di Should Have & Could Have
+Kandidat B (Dinda Aulia)     →  Lolos Must Have, terbatas di Should Have
+
+🏅 REKOMENDASI: Kandidat A — Rizky Pratama
+   Alasan: pengalaman UI/UX collaboration lebih kuat, portfolio 5 project live,
+   React.js 3 tahun (lebih relevan dibanding Vue.js untuk konteks perusahaan)
+```
+
+---
+
+## 📁 Dokumen dalam Folder Ini
+
+| File | Keterangan |
 |------|-----------|
-| `CV_Screening_Frontend_Developer.docx` | Dokumen hasil screening: tabel MoSCoW & rekomendasi |
+| `CV_Screening_Frontend_Developer.docx` | Analisis lengkap MoSCoW per kandidat + rekomendasi tertulis |
 
 ---
 
-## 💡 Key Learning
+## 🔗 Keterkaitan Project
 
-- CV screening yang efektif dimulai dari **pemahaman mendalam terhadap peran**: job desc, tantangan harian, dan skill yang benar-benar dibutuhkan di lapangan
-- Kerangka MoSCoW membantu recruiter **menghindari bias** dan membuat keputusan berbasis fakta, bukan kesan pertama
-- Rekomendasi yang baik harus disertai **reasoning yang spesifik** — bukan sekadar "kandidat ini lebih baik"
+- Form penilaian wawancara → lihat [`templates/`](../templates/)
+- SOP rekrutmen lengkap → lihat [`01-sop-recruitment/`](../01-sop-recruitment/)
